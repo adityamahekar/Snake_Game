@@ -28,10 +28,13 @@ A classic **Snake Game** built using **HTML, CSS, and JavaScript**. Control the 
 
 ## 📸 Screenshots
 
-| Snake Game Start | Snake Game During Play |
-|-----------------|----------------------|
-| ![Snake Game 1](snakeG1.png) | ![Snake Game 2](snakeG2.png) |
+| Snake Game Start | 
+|-----------------|
+| ![Snake Game 1](snakeG1.png) | 
 
+|Snake Game During Play |
+|----------------------|
+|![Snake Game 2](snakeG2.png) |
 ---
 
 ## 🛠️ Technologies Used
