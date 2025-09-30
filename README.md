@@ -47,7 +47,7 @@ A classic **Snake Game** built using **HTML, CSS, and JavaScript**. Control the 
 
 ## 🔗 GitHub Link
 
-Check out the project repository: [GitHub Link](https://github.com/yourusername/snake-game)  
+Check out the project repository: [GitHub Link](https://adityamahekar.github.io/Snake_Game/)  
 
 ---
 
